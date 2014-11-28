@@ -261,8 +261,6 @@ function wpt5ss_admin_function()
     </div>
     </div>
     <?php
-	$wpt5ss_product = get_option( 'wpt5ss_product' );
-	$wpt5ss_hire = get_option( 'wpt5ss_hire' );
 	echo '</div>
 	<div id="wpt5ss_side">
 	<div class="wpt5ss_box">';
