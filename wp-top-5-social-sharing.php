@@ -3,7 +3,7 @@
 Plugin Name: WP Top 5 Social Sharing
 Plugin URI: http://www.a1netsolutions.com/Products/WP-Top-5-Social-Sharing
 Description: <strong>WP Top 5 Social Sharing</strong> is a easy to use and flexible WordPress plugin. This plugin add a floating icon set for sharing your blog posts, pages, attachments etc on top 5 social media (Facebook, Twitter, Google Plus, LinkedIn & Digg).
-Version: 1.0.0
+Version: 3.0
 Author: Ahsanul Kabir
 Author URI: http://www.ahsanulkabir.com/
 License: GPL2
